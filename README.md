@@ -1,2 +1,2 @@
-# codegirls-desafio-github-primeiroreposit-rio
+# codegirls-desafio-github-primeirorepositorio
 Desafio de Projeto sobre Git/GitHub
